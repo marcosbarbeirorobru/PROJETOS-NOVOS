@@ -1,0 +1,8 @@
+TextWindow.WriteLine("programa para dividir dois números:")
+TextWindow.WriteLine("Digite o primeiro valor:")
+primeiro = TextWindow.Read()
+TextWindow.WriteLine("Digite o segundo valor:")
+segundo = TextWindow.Read()
+resultado=primeiro/segundo
+TextWindow.WriteLine("O resultado da divisão dos dois é:")
+TextWindow.WriteLine(resultado)

@@ -1,0 +1,15 @@
+  SenhaCerta = 10
+  
+  TextWindow.WriteLine("Digite a senha")
+
+  While digitado <> SenhaCerta And tentativas <2
+    TextWindow.WriteLine("Senha Errada:")
+    TextWindow.WriteLine("Digite a Senha:")
+    tentativas = tentativas + 1
+    digitado = TextWindow.Read()
+  EndWhile
+  
+  If tentativas >= SenhaCerta Then
+    TextWindow.WriteLine("  correto ")
+    EndIf
+  

@@ -1,0 +1,8 @@
+\\sistemagi-pc\Aula Alunos\PROFESSOR ANDRÉ\marcos aparecido da silva\controle de frota\controle de frota\bin\Debug\controle de frota.exe.config
+\\sistemagi-pc\Aula Alunos\PROFESSOR ANDRÉ\marcos aparecido da silva\controle de frota\controle de frota\bin\Debug\controle de frota.exe
+\\sistemagi-pc\Aula Alunos\PROFESSOR ANDRÉ\marcos aparecido da silva\controle de frota\controle de frota\bin\Debug\controle de frota.pdb
+\\sistemagi-pc\Aula Alunos\PROFESSOR ANDRÉ\marcos aparecido da silva\controle de frota\controle de frota\obj\Debug\controle de frota.csprojResolveAssemblyReference.cache
+\\sistemagi-pc\Aula Alunos\PROFESSOR ANDRÉ\marcos aparecido da silva\controle de frota\controle de frota\obj\Debug\controle_de_frota.MainForm.resources
+\\sistemagi-pc\Aula Alunos\PROFESSOR ANDRÉ\marcos aparecido da silva\controle de frota\controle de frota\obj\Debug\controle de frota.csproj.GenerateResource.Cache
+\\sistemagi-pc\Aula Alunos\PROFESSOR ANDRÉ\marcos aparecido da silva\controle de frota\controle de frota\obj\Debug\controle de frota.exe
+\\sistemagi-pc\Aula Alunos\PROFESSOR ANDRÉ\marcos aparecido da silva\controle de frota\controle de frota\obj\Debug\controle de frota.pdb

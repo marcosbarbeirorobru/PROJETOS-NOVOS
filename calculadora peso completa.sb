@@ -1,0 +1,24 @@
+TextWindow.WriteLine("Cálculo de IMC")
+TextWindow.WriteLine("Digite seu peso:")
+peso = TextWindow.Read()
+TextWindow.WriteLine("Digite sua altura:")
+altura = TextWindow.Read()
+resultado=peso/(altura*altura)
+TextWindow.WriteLine("Seu IMC é:")
+
+If resultado >= 30 And resultado < 35 Then
+  
+  TextWindow.WriteLine("obesidade 1")
+  
+EndIf
+
+If resultado >= 35 And resultado < 39 Then
+  
+  TextWindow.WriteLine("obesidade 2")
+  
+EndIf
+If resultado >= 30 And resultado < 35 Then
+  
+  TextWindow.WriteLine("obesidade 1")
+  
+ EndIf

@@ -1,0 +1,8 @@
+\\sistemagi-pc\Aula Alunos\PROFESSOR ANDRÉ\marcos aparecido da silva\Cadastro de clientes\Cadastro de clientes\bin\Debug\Cadastro de clientes.exe.config
+\\sistemagi-pc\Aula Alunos\PROFESSOR ANDRÉ\marcos aparecido da silva\Cadastro de clientes\Cadastro de clientes\bin\Debug\Cadastro de clientes.exe
+\\sistemagi-pc\Aula Alunos\PROFESSOR ANDRÉ\marcos aparecido da silva\Cadastro de clientes\Cadastro de clientes\bin\Debug\Cadastro de clientes.pdb
+\\sistemagi-pc\Aula Alunos\PROFESSOR ANDRÉ\marcos aparecido da silva\Cadastro de clientes\Cadastro de clientes\obj\Debug\Cadastro de clientes.csprojResolveAssemblyReference.cache
+\\sistemagi-pc\Aula Alunos\PROFESSOR ANDRÉ\marcos aparecido da silva\Cadastro de clientes\Cadastro de clientes\obj\Debug\Cadastro_de_clientes.MainForm.resources
+\\sistemagi-pc\Aula Alunos\PROFESSOR ANDRÉ\marcos aparecido da silva\Cadastro de clientes\Cadastro de clientes\obj\Debug\Cadastro de clientes.csproj.GenerateResource.Cache
+\\sistemagi-pc\Aula Alunos\PROFESSOR ANDRÉ\marcos aparecido da silva\Cadastro de clientes\Cadastro de clientes\obj\Debug\Cadastro de clientes.exe
+\\sistemagi-pc\Aula Alunos\PROFESSOR ANDRÉ\marcos aparecido da silva\Cadastro de clientes\Cadastro de clientes\obj\Debug\Cadastro de clientes.pdb

@@ -1,0 +1,6 @@
+GraphicsWindow.brushcolor="red"
+graphicswindow.FiLLELLipse(100,80,100,100)
+
+GraphicsWindow.pencolor="yellow"
+GraphicsWindow.PenWidth=10
+GraphicsWindow.DrawRectangle(350,250,170,100)

@@ -1,0 +1,7 @@
+TextWindow.WriteLine(" entre com a quantidade do produto em estoque")
+estoque=TextWindow.Read()
+If estoque < 10 Then
+  TextWindow.WriteLine(" estoque muito baixo! compre mais")
+Else
+  TextWindow.WriteLine(" estoque dentro dos niuveis normais ")
+  EndIf
